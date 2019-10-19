@@ -1,6 +1,6 @@
 # Pomodoro Clock
 
-##  Technology: ReactJS
+##  Technology: ReactJS & Redux
 
 ### Description
 
