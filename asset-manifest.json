@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-redux-Pomodoro-Clock/static/css/main.d639478f.chunk.css",
+    "main.css": "/react-redux-Pomodoro-Clock/static/css/main.2c72f583.chunk.css",
     "main.js": "/react-redux-Pomodoro-Clock/static/js/main.1ffc70db.chunk.js",
     "main.js.map": "/react-redux-Pomodoro-Clock/static/js/main.1ffc70db.chunk.js.map",
     "runtime-main.js": "/react-redux-Pomodoro-Clock/static/js/runtime-main.1020dac2.js",
@@ -8,14 +8,15 @@
     "static/js/2.2cab97cd.chunk.js": "/react-redux-Pomodoro-Clock/static/js/2.2cab97cd.chunk.js",
     "static/js/2.2cab97cd.chunk.js.map": "/react-redux-Pomodoro-Clock/static/js/2.2cab97cd.chunk.js.map",
     "index.html": "/react-redux-Pomodoro-Clock/index.html",
-    "precache-manifest.6a72254d66e5016cebd40987c30fcc9d.js": "/react-redux-Pomodoro-Clock/precache-manifest.6a72254d66e5016cebd40987c30fcc9d.js",
+    "precache-manifest.27179cd222cff8152901c0e57c451a9a.js": "/react-redux-Pomodoro-Clock/precache-manifest.27179cd222cff8152901c0e57c451a9a.js",
     "service-worker.js": "/react-redux-Pomodoro-Clock/service-worker.js",
-    "static/css/main.d639478f.chunk.css.map": "/react-redux-Pomodoro-Clock/static/css/main.d639478f.chunk.css.map"
+    "static/css/main.2c72f583.chunk.css.map": "/react-redux-Pomodoro-Clock/static/css/main.2c72f583.chunk.css.map",
+    "static/media/App.css": "/react-redux-Pomodoro-Clock/static/media/tomatobkg.549fd71e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1020dac2.js",
     "static/js/2.2cab97cd.chunk.js",
-    "static/css/main.d639478f.chunk.css",
+    "static/css/main.2c72f583.chunk.css",
     "static/js/main.1ffc70db.chunk.js"
   ]
 }
