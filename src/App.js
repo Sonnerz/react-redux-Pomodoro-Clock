@@ -106,10 +106,6 @@ class App extends Component {
               <li>
                 <a href="https://sonnerz.github.io" title="portfolio" target="blank"><i className="fa fa-briefcase"></i></a>
               </li>
-              <li>
-                <a className="nav-link text-light" rel="noopener noreferrer" href="mailto:sonya.cooley@mail.com" target="_blank" title="email me"><i
-                  className="fa fa-envelope-square"></i></a>
-              </li>
             </ul>
           </div>
         </section>
