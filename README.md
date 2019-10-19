@@ -11,4 +11,4 @@ https://sonnerz.github.io/react-redux-Pomodoro-Clock
 
 
 
-![Pomodoro Clock Preview](public/prev.jpg)
+![Pomodoro Clock Preview](src/assets/prev.jpg)
