@@ -13,7 +13,7 @@ body {
 }
 
 #root {
-  background: linear-gradient(rgba(14, 65, 1, 0.9), rgba(240, 20, 4, 0.5)), url("/tomatobkg.png") no-repeat;
+  background: linear-gradient(rgba(14, 65, 1, 0.9), rgba(240, 20, 4, 0.5)), url("assets/tomatobkg.png") no-repeat;
   background-attachment: scroll;
   background-position: center 45%;
   background-size: 60%;
@@ -98,7 +98,7 @@ h1 {
   cursor: pointer;
   box-shadow: 0 0 0 rgba(27, 100, 4, 1);
   position: relative;
-  background: url("/tomato.png") no-repeat;
+  background: url("assets/tomato.png") no-repeat;
   background-position: center center;
   background-size: contain;
 }
@@ -310,7 +310,7 @@ h1 {
 
 
   #root {
-    background: linear-gradient(rgba(14, 65, 1, 0.9), rgba(240, 20, 4, 0.5)), url("/tomatobkg.png") no-repeat;
+    background: linear-gradient(rgba(14, 65, 1, 0.9), rgba(240, 20, 4, 0.5)), url("assets/tomatobkg.png") no-repeat;
     background-attachment: scroll;
     background-position: center 45%;
     background-size: 65%;

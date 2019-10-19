@@ -2,7 +2,7 @@
   "name": "pomodoro-clock",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sonnerz.github.io/Pomodoro-Clock",
+  "homepage": "https://sonnerz.github.io/react-redux-Pomodoro-Clock",
   "dependencies": {
     "react": "^16.10.2",
     "react-countdown-clock": "^2.7.0",
